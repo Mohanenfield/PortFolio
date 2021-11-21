@@ -103,7 +103,7 @@ class Projects extends Component {
                 E-Commerce Website
               </CardTitle>
               <CardText style={{ textAlign: "justify" }}>
-                This eCommerce website is designed with ReactJS and still working on it.
+                This eCommerce website is designed with ReactJS.
               </CardText>
               <CardActions border>
                 <a href="https://github.com/Mohanenfield/inventory-app-fe" target="_blank"><Button
