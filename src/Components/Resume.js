@@ -66,14 +66,14 @@ class Resume extends Component {
             />
             <hr style={{ borderTop: "3px solid #e22947" }} />
             <h2>Experience</h2>
-            <Experience
-              startYear={"May 2021"}
-              endYear={"Present"}
-              jobName={"Trainee"}
-              jobDesc={
-                "That was a Full Stack Developement Course. And I learnt lot of tech things from this company I now had a chance to test my knowledge in the real world through this course Training."
-              }
-            />
+//             <Experience
+//               startYear={"May 2021"}
+//               endYear={"Present"}
+//               jobName={"Trainee"}
+//               jobDesc={
+//                 "That was a Full Stack Developement Course. And I learnt lot of tech things from this company I now had a chance to test my knowledge in the real world through this course Training."
+//               }
+//             />
             <Experience
               startYear={"August 2019"}
               endYear={"March 2021"}
