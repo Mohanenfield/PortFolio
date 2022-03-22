@@ -28,7 +28,7 @@ class Resume extends Component {
             <h5>Address</h5>
             <p>Avadi,Chennai-600054</p>
             <h5>Phone</h5>
-            <p>+91 6380130927</p>
+//             <p>+91 6380130927</p>
             <h5>Email</h5>
             <p>mohanenfield2134@gmail.com</p>
             <h5>Github</h5>
